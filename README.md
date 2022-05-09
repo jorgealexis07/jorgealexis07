@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jorgealexis41@gmail.com**
 
-- 📄 Know about my experiences [I study at ingeniery in sistems computacianales](I study at ingeniery in sistems computacianales)
+- 📄 Know about my experiences (I study at ingeniery in sistems computacianales)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

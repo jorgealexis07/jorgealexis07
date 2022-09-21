@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgealexis07&label=Profile%20views&color=0e75b6&style=flat" alt="jorgealexis07" /> </p>
 
-- 🔭 I’m currently working on **App Motión**
+🔭 i'm worked in App Motión
 
-- 🌱 I’m currently learning **react, VueJS, Flutter.**
+🌱 I’m currently learning react,  Flutter.
 
-- 👯 I’m looking to collaborate on **anymore proyects**
+👯 I’m looking to collaborate on anymore proyects
 
-- 📝 I regularly write articles on [https://jorgealexis07.github.io/my_launchx_blog/](https://jorgealexis07.github.io/my_launchx_blog/)
+📝 I regularly write articles on https://jorgealexis07.github.io/my_launchx_blog/
 
-- 💬 Ask me about **Flutter.**
+💬 Ask me about Flutter.
 
-- 📫 How to reach me **jorgealexis41@gmail.com**
+📫 How to reach me jorgealexis41@gmail.com
 
-- 📄 Know about my experiences (I study at ingeniery in sistems computacianales)
+📄 Know about my experiences (I study at ingeniery in sistems computacianales)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

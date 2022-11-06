@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgealexis07&label=Profile%20views&color=0e75b6&style=flat" alt="jorgealexis07" /> </p>
 
-🔭 i'm worked in App Motión
+🔭 Work on App Motión project
 
 🌱 I’m currently learning react,  Flutter.
 
@@ -15,7 +15,7 @@
 
 📫 How to reach me jorgealexis41@gmail.com
 
-📄 Know about my experiences (I study at ingeniery in sistems computacianales)
+📄 Know about my experiences (I studied computer systems engineering)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
